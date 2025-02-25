@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /
+RewriteBase /course-coder/000_PROJETOS/1_API_SEM_FRAMEWORK/ 
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
